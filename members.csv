@@ -1,0 +1,5 @@
+id,name,email,type,active,pin
+M001,山田太郎,yamada@example.com,regular,yes,1234
+M002,佐藤花子,sato@example.com,premium,yes,5678
+M003,田中一郎,tanaka@example.com,regular,yes,9999
+M004,鈴木次郎,suzuki@example.com,premium,no,1111

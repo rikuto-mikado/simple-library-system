@@ -1,0 +1,7 @@
+id,title,author,genre,available,type,download_url
+B001,吾輩は猫である,夏目漱石,文学,yes,physical,
+B002,坊っちゃん,夏目漱石,文学,yes,physical,
+B003,Python入門,山田太郎,技術書,no,physical,
+B004,データサイエンス基礎,佐藤花子,技術書,yes,digital,https://example.com/ds_basics.pdf
+B005,源氏物語,紫式部,古典,yes,physical,
+B006,AI・機械学習の基礎,田中一郎,技術書,yes,digital,https://example.com/ai_basics.pdf
